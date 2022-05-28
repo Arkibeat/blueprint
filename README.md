@@ -1,2 +1,2 @@
-# blueprint
+# Architecture Blueprint
 Architecture Blueprint
